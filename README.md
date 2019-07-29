@@ -1,6 +1,6 @@
 # Internet Gratis
 
-Aceh Cyber Team
+Andhie Cyber Team
 
 
 Requirements
@@ -13,7 +13,7 @@ Requirements
 Usage
 -----
 
-    $ git clone https://github.com/Ro0TN3T/tel.git
+    $ git clone https://github.com/andhie76/tel.git
     $ cd tel
     $ chmod +x tel.py
     $ python2 tel.py
@@ -29,6 +29,6 @@ Updating
 
 Contact
 -------
+Facebook Group : [KPN TUNNEL KALIMANTAN]
 
-Facebook Group : [Aceh Cyber Team]
-
+Facebook Group : [PHREAKERS MADHUREH]
